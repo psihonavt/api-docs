@@ -155,6 +155,11 @@ Nimble default fields
      - \- 
      - N/A
      - For company contact
+   * - domain
+     - :ref:`default <default-type>`
+     - \- 
+     - N/A
+     - For company contact
    * - title
      - :ref:`default <default-type>`
      - \-
